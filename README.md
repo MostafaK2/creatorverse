@@ -1,6 +1,6 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - Creatorverse
 
-Submitted by: **👉🏿 your name here**
+Submitted by: Mostafa Kamal
 
 About this web app: **👉🏿 app description here**
 
@@ -39,6 +39,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 https://imgur.com/a/WwIwYJI
+
+![Igmur](https://i.imgur.com/QanVTvC.gif)
 
 👉🏿<img src='https://i.imgur.com/QanVTvC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
