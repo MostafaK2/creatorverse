@@ -42,7 +42,7 @@ https://imgur.com/a/WwIwYJI
 
 ![Imgur](https://imgur.com/63riHy1)
 
-👉🏿<img src='https://i.imgur.com/QanVTvC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![codepathGifresize](https://github.com/user-attachments/assets/2ccb263f-1d83-485e-82ff-d48faba4c99c)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
