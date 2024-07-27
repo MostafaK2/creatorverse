@@ -2,9 +2,9 @@
 
 Submitted by: Mostafa Kamal
 
-About this web app: **👉🏿 app description here**
+About this web app: Creatorverse allows users to add names, pictures, youtube handles, and descriptions of YouTube content creators. This app shows the added content creators in the main page. It also allows users to edit, view or delete a content creator.
 
-Time spent: **👉🏿 X** hours
+Time spent: 40 hours
 
 ## Required Features
 
@@ -38,9 +38,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-https://imgur.com/a/WwIwYJI
-
-![Imgur](https://imgur.com/63riHy1)
 
 ![codepathGifresize](https://github.com/user-attachments/assets/2ccb263f-1d83-485e-82ff-d48faba4c99c)
 
@@ -49,7 +46,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+One of the challenges I faced was configuring the tailwind into the app.
 
 ## License
 
