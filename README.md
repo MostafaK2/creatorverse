@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 https://imgur.com/a/WwIwYJI
 
-![Igmur](https://i.imgur.com/QanVTvC.gif)
+![Imgur](https://imgur.com/63riHy1)
 
 👉🏿<img src='https://i.imgur.com/QanVTvC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
